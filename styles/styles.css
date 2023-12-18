@@ -1,0 +1,15 @@
+ul {
+    background-color: lightskyblue;
+}
+ol {
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h3 {
+    font-style: italic;
+    color: gray;
+}
